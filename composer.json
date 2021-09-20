@@ -1,0 +1,11 @@
+{
+    "name": "diego/paypal-checkout",
+    "description": "Proyecto para aprender a usar paypal checkout",
+    "authors": [{
+        "name": "Yaakov",
+        "email": "dbrionesmtz@yahoo.com"
+    }],
+    "require": {
+        "paypal/paypal-checkout-sdk": "^1.0"
+    }
+}
